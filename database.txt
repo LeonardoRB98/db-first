@@ -1,0 +1,18 @@
+Nome Tabella: Auto_usate
+
+id: numero intero crescente
+
+marca: -stringa |  VARCHAR(25)
+modello: -stringa |  VARCHAR(50)	
+classe: -stringa |  VARCHAR(25) 	
+km: -numero | INT
+porte: -numero | TINYINT
+colore: -stringa | VARCHAR(25)
+immatricolazione: -data | DATE
+numero _propretari: | -intero TINYINT
+prezzo: -numero | FLOAT(8,2)
+cambio: -stringa | VARCHAR(20)
+marce: -numero | TINYINT
+motore: -stringa | VARCHAR(20)
+descrizione: -stringa | TEXT
+  	
